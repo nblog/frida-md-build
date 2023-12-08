@@ -1,3 +1,3 @@
 
-## Frida `MultiThreadedDLL` Building
-frida build `MultiThreadedDLL` patch
+## Frida (embedded) `MultiThreadedDLL` Building
+frida(embedded) build `MultiThreadedDLL` patch
